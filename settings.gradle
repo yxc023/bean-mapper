@@ -1,0 +1,4 @@
+rootProject.name = 'bean-mapper'
+include 'bean-mapper-core'
+include 'bean-mapper-spring-boot-starter'
+
