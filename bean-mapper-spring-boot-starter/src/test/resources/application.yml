@@ -1,0 +1,5 @@
+yxc:
+  bean:
+    mapper:
+      scanPackage: com.yangxiaochen.mapper.test
+debug: true
